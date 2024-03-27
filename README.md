@@ -16,8 +16,8 @@ This Python script enables automatic poking back on Facebook. It requires obtain
 ## Setup
 1. Clone or download the repository to your local machine.
 2. Open the facebook_poke.py file.
-3. Find ```my_user_id``` variable declaration at line 4 and replace ```"USERID"``` with your actual user ID.
-4. Find ```"cookie": "Your cookies"``` at line 44 and replace ```"Your cookies"``` with your actual cookie value.
+3. Find ```my_user_id``` variable declaration at line 4 and replace ```YOUR USER ID``` with your actual user ID.
+4. Find ```"cookie": "ADD YOUR COOKIE HERE"``` at line 44 and replace ```ADD YOUR COOKIE HERE``` with your actual cookie value.
 5. Save the file.
 
 ## Usage
